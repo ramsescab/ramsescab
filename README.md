@@ -6,4 +6,4 @@ i was born in the paradise-like canary islands and moved to a small town in denm
 
 heavy rotation → [SixTONES / こっから](https://www.youtube.com/watch?v=yvHfl1JEPc0)
 
-hobby project → [NaniKani](https://github.com/ramsescab/nanikani) 
+hobby projects → [NaniKani](https://github.com/ramsescab/nanikani) `beta` / kazeyo `soon`
