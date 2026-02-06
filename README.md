@@ -7,3 +7,5 @@ i was born in the paradise-like canary islands and moved to a small town in denm
 heavy rotation → [Fujii Kaze / Hachikō](https://www.youtube.com/watch?v=OodEsjZ88TQ)
 
 hobby projects → [NaniKani](https://github.com/ramsescab/nanikani) `beta` / kazeyo `soon`
+
+playing → ドラゴンクエストVII Ｒｅｉｍａｇｉｎｅｄ
