@@ -8,4 +8,4 @@ heavy rotation → [Fujii Kaze / Hachikō](https://www.youtube.com/watch?v=OodEs
 
 hobby projects → [NaniKani](https://github.com/ramsescab/nanikani) `beta` / [kazeyo](https://kazeyo.ramses.work) `wip` / [yuttari](https://yuttari.ramses.work) `beta`
 
-playing → レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～) 
+playing → レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～
