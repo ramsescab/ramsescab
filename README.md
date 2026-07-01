@@ -4,8 +4,8 @@ i was born in the paradise-like canary islands and moved to a small town in denm
 
 カナリア諸島で生まれ、2016年にデンマークへ移住しました。現在はGitHubでデザイナーをしています。 デザインの背景にある人間味、コラボレーション、そしてプロセスを支えるツールを探求するのが好きです。オフの日は、ゲームや写真、あるいはオタクな趣味を楽しんでいます。
 
-heavy rotation → [Fujii Kaze / Hachikō](https://www.youtube.com/watch?v=OodEsjZ88TQ)
+heavy rotation → [moonriders / VIDEO BOY](https://www.youtube.com/watch?v=LGKhtl-JCx4)
 
 hobby projects → [NaniKani](https://github.com/ramsescab/nanikani) `beta` / [kazeyo](https://kazeyo.ramses.work) `wip` / [yuttari](https://yuttari.ramses.work) `beta`
 
-playing → レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～
+playing → [ヨッシーとフカシギの図鑑](https://www.nintendo.com/jp/games/switch2/aakga/index.html)
